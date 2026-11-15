@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Oleksandr Korostij
 
-<!--
-**Tabyreto4ka1/Tabyreto4ka1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Python Backend Developer | Python | Django | FastAPI
 
-Here are some ideas to get you started:
+Junior Python Backend Developer with practical experience in building web applications and REST APIs using Python, Django, and FastAPI. Familiar with database management, authentication, API development, and working with external services. I enjoy solving problems, learning new technologies, and improving my development skills. Open to junior opportunities and collaboration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, SQL
+
+**Backend:** Django, FastAPI, REST API
+
+**Databases:** PostgreSQL, SQLAlchemy
+
+**Tools & Technologies:** Git, GitHub, Docker, Redis, Alembic, JWT, BeautifulSoup, Requests, Cloudinary
+
+---
+
+## 🚀 Featured Projects
+
+- **[Django Quotes Website](https://github.com/Tabyreto4ka1/goit-algo-hw-web-13/tree/main/Django_Quotes_web_site)** – A Django web application for browsing and managing quotes, authors, and tags. Includes user registration, authentication, password reset, quote and author management, and web scraping using BeautifulSoup and Requests.
+
+- **[Contacts REST API](https://github.com/Tabyreto4ka1/goit-algo-hw-web-13/tree/main/RestApi)** – A REST API built with FastAPI for managing contacts. Includes CRUD operations, JWT authentication, email verification, PostgreSQL integration with SQLAlchemy, Redis rate limiting, avatar uploads via Cloudinary, and database migrations with Alembic.
+
+---
+
+## 🎓 Education
+
+**GoIT School** | 2025–2026  
+Python Development
+
+---
+
+## 🌍 Languages
+
+Ukrainian – Native  
+English – [Your level]
+
+---
+
+## 📫 How to reach me
+
+- [LinkedIn](https://www.linkedin.com/in/oleksandr-korostij-89aaba44b/)
+- [Email](mailto:sashakorostij@gmail.com)
+- [GitHub](https://github.com/Tabyreto4ka1)
