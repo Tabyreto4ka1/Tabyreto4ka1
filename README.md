@@ -44,4 +44,3 @@ English – [Your level]
 
 - [LinkedIn](https://www.linkedin.com/in/oleksandr-korostij-89aaba44b/)
 - [Email](mailto:sashakorostij@gmail.com)
-- [GitHub](https://github.com/Tabyreto4ka1)
