@@ -36,8 +36,7 @@ Python Development
 ## 🌍 Languages
 
 Ukrainian – Native  
-English – [Your level]
-
+English – B2
 ---
 
 ## 📫 How to reach me
